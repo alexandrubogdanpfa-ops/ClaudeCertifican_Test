@@ -1,0 +1,1 @@
+This is a dummy file created to test syncing with GitHub via the GitHub MCP server.
